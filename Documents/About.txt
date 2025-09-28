@@ -1,0 +1,1 @@
+This directory contains all documents of each phase of the project
